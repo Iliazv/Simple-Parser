@@ -5,7 +5,9 @@
 Загрузить библиотеку docx2txt или развернуть виртуальное окружение
 
 python -m venv virtual-env - для создания окружения
+
 virtual-env\Scripts\activate - для активации окружения
+
 pip install -r requirements.txt - для загрузки зависимостей
 
 Разместить нужные word файлы в нужные папки
